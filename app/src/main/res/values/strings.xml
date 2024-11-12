@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="image_not_selected_warning">Image not selected</string>
+    <string name="result_text_extra">RESULT_EXTRA</string>
+    <string name="inference_time_text_extra">INFERENCE_TIME_EXTRA</string>
+    <string name="image_analyzed_successfully">Analyze Success!</string>
+    <string name="image_analyzed_failed">Analyze Failed!</string>
+    <string name="save_result">Save Result</string>
+    <string name="cropping_failed">Cropping Failed</string>
+    <string name="menu_history">History</string>
+    <string name="menu_article">Article</string>
+    <string name="result_activity_title">Result</string>
+    <string name="history_activity_title">History</string>
+    <string name="article_activity_title">Article</string>
+    <string name="article_title">Article Title</string>
+    <string name="article_description">Article Description</string>
+    <string name="success_save_history">Successfully Saved!</string>
+</resources>
